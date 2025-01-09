@@ -1,0 +1,14 @@
+{
+  "name": "Blueooth Audio Fix",
+  "description": "prevents hands free mode on calls (creds redstonekai)",
+  "authors": [
+    {
+      "name": "krone",
+      "id": "1231820997292855326"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "speaker"
+  }
+}
